@@ -1,6 +1,6 @@
 # Hey, I'm Sany 👋
 
-### AI Engineer in Progress | Full-Stack Developer | AI Agents & RAG Systems
+### AI Engineer | Full-Stack Developer | AI Agents & RAG Systems
 
 I’m a software developer evolving toward **AI Engineering**, focused on building intelligent applications, AI agents, RAG-powered systems, and workflow automations.
 
