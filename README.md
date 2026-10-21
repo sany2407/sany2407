@@ -1,75 +1,119 @@
 # Hey, I'm Sany 👋
 
-### AI Full Stack Developer | .NET & Azure | Cloud-Native Applications
+### AI Engineer in Progress | Full-Stack Developer | AI Agents & RAG Systems
 
-I’m a software developer passionate about building scalable backend systems, modern web applications, and cloud-native solutions. I enjoy solving real-world engineering problems, designing APIs, and exploring technologies that make software more reliable, efficient, and maintainable.
+I’m a software developer evolving toward **AI Engineering**, focused on building intelligent applications, AI agents, RAG-powered systems, and workflow automations.
 
-- 💼 Currently working as an **AI Full Stack Developer at AES Technologies**
-- 🛠️ Building enterprise applications using **.NET, React, Next.js, and Azure**
-- 🏗️ Interested in backend engineering, microservices, distributed systems, and system design
-- ☁️ Exploring cloud infrastructure, DevOps, and scalable application architectures
-- 🚀 Always learning, building, and experimenting with new technologies
+My journey started with JavaScript and grew into TypeScript, Python, and C#. Today, I combine full-stack development, backend engineering, cloud technologies, and AI tools to build practical, production-oriented solutions.
+
+- 🤖 **AI Engineering:** Building AI agents, RAG systems, and LLM-powered applications
+- 🧠 **Agentic AI:** Exploring LangGraph, tool calling, agent workflows, and stateful AI systems
+- 🔗 **Automation:** Building AI-powered workflows with n8n
+- ⚙️ **Backend:** Developing APIs and services with FastAPI, Node.js, and .NET
+- 🗄️ **Data & Retrieval:** Working with MongoDB, SQLite, Oracle, PostgreSQL, and vector databases
+- ☁️ **Cloud:** Building and deploying applications on Google Cloud and Microsoft Azure
+- 🚀 **Long-term goal:** Growing into an AI Engineer who builds reliable, useful, and scalable intelligent systems
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 My AI Engineering Stack
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+### AI, LLMs & Agentic Systems
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+- LLM-powered applications and AI agents
+- Agent orchestration, state management, and tool calling
+- Retrieval-Augmented Generation (RAG)
+- Embeddings, semantic search, and vector retrieval
+- AI workflow automation and API integrations
+- Experimenting with agent evaluation, reliability, and observability
+
+### Programming Languages — My Journey
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Backend & APIs
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**My progression:** JavaScript → TypeScript → Python → C#
+
+I use JavaScript and TypeScript for full-stack development, Python for AI engineering and agent development, and C#/.NET for backend services and enterprise applications.
+
+### Backend & Full-Stack Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Frontend
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
-### Cloud, Database & Tools
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### Databases & Vector Search
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-5B4BDB?style=for-the-badge)
+
+Interested in document ingestion, embeddings, vector indexing, metadata filtering, hybrid retrieval, and grounding AI responses in relevant information.
+
+### Cloud, DevOps & Automation
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+- Google Cloud application deployment
+- Azure cloud services and enterprise integrations
+- Docker-based development and deployment
+- n8n workflow automation and service integrations
+- API security, authentication, and authorization
 
 ---
 
-## 🚀 What I Work On
+## 🤖 What I'm Building Toward
 
-- **Backend Engineering:** REST APIs, microservices, authentication, authorization, and database design.
-- **Cloud & Integration:** Azure services, messaging, file storage, API management, and cloud deployments.
-- **Full-Stack Development:** Building responsive interfaces and integrating them with backend services.
-- **Database Engineering:** Relational database design, SQL, schema migrations, and query optimization.
-- **System Design:** Exploring scalable architectures, distributed systems, and reliable software design.
+My focus is shifting toward building AI systems that can do more than generate text.
+
+| Area | What I'm exploring |
+|---|---|
+| **AI Agents** | Tool-using agents, stateful workflows, and multi-step reasoning |
+| **LangGraph** | Graph-based agent orchestration, persistence, and human-in-the-loop workflows |
+| **RAG Systems** | Document processing, chunking, embeddings, retrieval, and grounded generation |
+| **AI Automation** | Connecting LLMs, APIs, databases, and business processes with n8n |
+| **AI Backends** | Serving AI capabilities through FastAPI and integrating them with applications |
+| **Production AI** | Evaluation, tracing, error handling, latency, security, and deployment |
+
+My goal is to bridge the gap between AI prototypes and dependable applications that solve real-world problems.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects & Experiments
 
-Here are some areas of development I enjoy working on:
+I enjoy building projects that combine backend engineering, automation, and AI.
 
-| Project | Description | Technologies |
-|---|---|---|
-| **InnoCollab** | Web design and collaboration experiments | Web technologies |
-| **PhoneX** | Application development and backend deployment | Node.js, Google Cloud Run |
-| **Developer Projects** | APIs, automation, and full-stack experiments | TypeScript, React, Node.js |
+- **AI Agents & RAG:** Knowledge assistants, document question-answering, and tool-using agents.
+- **Workflow Automation:** n8n workflows connecting APIs, databases, and AI services.
+- **AI Backend Services:** Python and FastAPI applications exposing intelligent capabilities through APIs.
+- **Full-Stack Applications:** Web applications built with React, Next.js, TypeScript, and backend services.
+- **Cloud Deployments:** Containerized applications and cloud-hosted APIs.
 
-*Replace or update these entries with your best public repositories and their actual links.*
+*Explore my repositories for the projects, experiments, and implementations I publish along the way.*
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sany2407&show_icons=true&theme=tokyonight&hide_border=true" alt="Sany's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sany2407&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
@@ -82,26 +126,26 @@ Here are some areas of development I enjoy working on:
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Current Learning Direction
 
-- Advanced .NET and backend architecture
-- Distributed systems and event-driven microservices
-- Go and Rust for backend and systems programming
-- Docker, Kubernetes, and cloud infrastructure
-- AI-powered applications and developer tools
+- Deepening my understanding of Python for AI engineering
+- Building stateful AI agents with LangGraph
+- Developing practical RAG pipelines and vector search systems
+- Creating end-to-end automations with n8n
+- Deploying AI-powered backends with FastAPI and Google Cloud
+- Learning AI evaluation, observability, and production system design
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, exchanging ideas, and collaborating on meaningful projects.
+I'm interested in connecting with developers, AI engineers, and builders working on useful products and open-source projects.
 
 - 💻 **GitHub:** [@sany2407](https://github.com/sany2407)
 - 🌐 **Website:** [InnoCollab](https://innocollab.in)
-- 💬 Open to discussing backend engineering, full-stack development, cloud technologies, and open-source projects.
 
----
+Always learning. Always building. Moving toward the future of AI engineering.
 
 <p align="center">
-  <i>"Build things that solve real problems. Keep learning. Keep shipping."</i>
+  <i>From writing code to building intelligent systems.</i>
 </p>
